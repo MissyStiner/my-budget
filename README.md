@@ -16,7 +16,7 @@ WHEN the user reestablishes an internet connection<br>
 THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
 ## Mock-Up
-
+![image](https://user-images.githubusercontent.com/85651869/140235331-e2a34c62-9294-40e0-8cf0-568304a5f456.png)
 
 ## Offline Functionality
 You’ll need to use IndexedDB to add offline functionality. Review Module 18: NoSQL, Lesson 4: Add Offline Persistence with IndexedDB as a refresher on how to add this to your application.
