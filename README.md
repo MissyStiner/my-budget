@@ -1,7 +1,10 @@
 # My Budget | Budget Tracker
 
-## GitHub URL:
+## GitHub URL
 https://github.com/MissyStiner/my-budget
+
+## Application URL
+
 
 ## User Story
 AS AN avid traveler<br>
